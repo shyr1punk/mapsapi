@@ -32,8 +32,8 @@
 
     "baseUrl": "//maps.api.2gis.ru/2.0",
 
-    "tileServer": "//tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1&ts=online_sd",
-    "retinaTileServer": "//tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1&ts=online_hd",
+    "tileServer": "//rtile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1",
+    "retinaTileServer": "//rtile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1",
     "previewTileServer": "//tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1&size=64&ts=online_sd",
     "previewRetinaTileServer": "//tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1&size=64&ts=online_hd",
 
